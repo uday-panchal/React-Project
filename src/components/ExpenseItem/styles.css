@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Expense-item{
+    background-color: darkgray;
+    height: 100px;
+    border-radius: 12px;
+    display: flex;
+    margin: 0px 20px 0px 20px;
+    align-items: center;
+    padding-left: 10px;
+    margin-top: 20px;
+}
+.Expense-description {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    margin-left: 58px;
+    justify-content: space-between;
+}
+
+.Expense-price {
+    background-color: firebrick;
+    padding: 12px;
+    border-radius: 12px;
+    border: 2px solid white;
+    color: white;
+    margin-right: 48px;
+}
+

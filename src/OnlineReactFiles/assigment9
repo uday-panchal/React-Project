@@ -1,0 +1,18 @@
+// import React from 'react'
+// import "./styles.css";
+
+
+//  function Assigment9() {
+//   const [changeColor, setChangeColor] = React.useState(false)
+//   const onColorChange = () => {
+//     setChangeColor(true)
+//   }
+//   return (
+//     <div className="event">
+//       <h2 style={{color: changeColor ?"red" : "black"}}>Style Me?</h2>
+//       <button onClick={onColorChange}>Toggle Style</button>
+//       </div>
+//   )
+// }
+
+// export default Assigment9;

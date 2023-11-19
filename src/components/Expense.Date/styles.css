@@ -1,0 +1,14 @@
+.Expense-Month{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    border: 2px solid white;
+    border-radius: 12px;
+    justify-content: center;
+    color: white;
+    text-align:center;
+    flex-direction: column;
+   background-color: black;
+   font-weight: bold;
+   padding-left: 7px;
+}
