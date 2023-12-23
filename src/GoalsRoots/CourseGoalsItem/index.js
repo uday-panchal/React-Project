@@ -4,6 +4,7 @@ const CourseGoalsItem = props => {
     // const [deleteText, setDeleteText] = useState('');
     const deleteHandler = () => {
         props.onDelete(props.id);
+        console.log(props?.id);
     }    
     return(
         <li className="goal-item" onClick={deleteHandler}>
